@@ -12,4 +12,7 @@
   "include": [
     "./*.ts"
   ],
+  "types": [
+    "node"
+  ]
 }
