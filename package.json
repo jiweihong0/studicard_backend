@@ -20,7 +20,8 @@
     "mysql2": "^2.3.3",
     "sequelize": "^6.26.0",
     "sqlite3": "^5.1.2",
-    "tedious": "^15.1.2"
+    "tedious": "^15.1.2",
+    "util": "^0.12.5"
   },
   "devDependencies": {
     "@types/cookie-parser": "^1.4.3",
