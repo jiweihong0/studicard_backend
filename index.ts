@@ -29,6 +29,6 @@ fs.readdir('./src/routes', (err, files) => {
 
 // Start application
 app.listen(
-    parseInt(process.env.PORT!) || 8080,
+    parseInt(process.env.PORT!) || 3000,
     process.env.HTTP_HOST || "0.0.0.0",
     () => console.info("Server boot successful"))

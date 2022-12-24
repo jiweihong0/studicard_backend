@@ -5,7 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "build": "npx tsc",
-    "start": "ts-node index.ts",
+    "start": "npm run dev",
     "dev": "nodemon index.ts"
   },
   "keywords": [],

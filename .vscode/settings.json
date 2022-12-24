@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/b564d777-79c2-4819-bec5-1afc0e8bb0c3/AppServices/subscriptions/b564d777-79c2-4819-bec5-1afc0e8bb0c3/resourceGroups/studicard/providers/Microsoft.Web/sites/studicard",
+    "appService.deploySubpath": "."
+}
